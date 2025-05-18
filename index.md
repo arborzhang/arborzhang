@@ -5,7 +5,7 @@ layout: about
 
 
 # About Me
-![My Photo](assets/images/smile2.jpg)
+![My Photo](assets/images/smile3.jpg)
 
 I am an epidemiologist, my research focuses on diabetes and multimorbidity. 
 
