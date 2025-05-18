@@ -6,10 +6,10 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: Jie (Evelyn) Zhang
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  email: jiezh@clinc.au.dk or arbor.jiezhang@gmail.com
+  selfie: smile.jpg
 
 # social
 social:
@@ -23,7 +23,7 @@ social:
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/jiezhang/ 
   pinterest:
   reddit:
   soundcloud:
