@@ -10,6 +10,11 @@ author:
   desc: <span style="font-size: 18px;">Hello nice to meet you</span>
   email: jiezh@clinc.au.dk or arbor.jiezhang@gmail.com
 
+# For minima theme
+header_pages:
+  - about.md
+  - publications.md
+  - research.md
 
 # social
 social:
