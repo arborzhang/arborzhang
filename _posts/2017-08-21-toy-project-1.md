@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Toy Project 1"
-info: "toy project"
-tech: "python3"
-type: Toy
+title:  "Body mass index trajectories and cardiometabolic risk factors"
+info: "project"
+type: project
 ---
 
-## Toy Project 1.
-Creating a virtual project as a sample is difficult.  
-So some of the samples will just copy the existing sample.  
+## Body mass index trajectories and cardiometabolic risk factors
+
 
 
 ## Tech
