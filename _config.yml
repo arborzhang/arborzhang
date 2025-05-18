@@ -8,13 +8,15 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: Jie (Evelyn) Zhang
   desc: <span style="font-size: 18px;">Hello nice to meet you</span>
-  email: jiezh@clinc.au.dk or arbor.jiezhang@gmail.com
+  email: your.email@example.com  # Optional
 
-# For minima theme
+# Navigation
 header_pages:
   - about.md
   - publications.md
   - research.md
+
+
 
 # social
 social:
